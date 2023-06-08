@@ -12,6 +12,10 @@
     <h2>Dantata & Sawoe Club House Review Form</h2>
     <p class="ins">Please let us know what your experience was like with the food and service.</p>
     <form action="https://formsubmit.co/b7b70e6db2a9c83848db3a7d289ac689" method="POST">
+
+      <!-- Email delivery format -->
+      <input type="hidden" name="_template" value="table">
+
       <div class="form-group">
         <label for="name">Full Name</label>
         <input type="text" id="name" name="Full Name" placeholder="Your Name" required>
@@ -26,7 +30,7 @@
         <label for="type">Membership type</label>
         <select id="type" name="Membership type" required>
             <option value="">Select membership type</option>
-            <option value="Tenan">Tenant</option>
+            <option value="Tenant">Tenant</option>
             <option value="D&S staff">D&S staff</option>
             <option value="JBN">JBN</option>
             <option value="Private">Private</option>
@@ -74,7 +78,7 @@
 
       <div class="form-group">
         <label for="rating">Order Accuracy</label>
-        <select id="rating" name=">Order Accuracy" required>
+        <select id="rating" name="Order Accuracy" required>
           <option value="">Select an option</option>
           <option value="Excellent">Excellent</option>
           <option value="Very Good">Very Good</option>
