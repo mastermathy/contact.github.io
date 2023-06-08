@@ -78,4 +78,17 @@ body {
   .ins {
     font-size: 10px;
   }
+
+  li a {
+    color: #073596;
+    text-decoration: none;
+    font-weight: bold;
+    margin-right: 25px;
+  }
+
+  li {
+    display: flex;
+    justify-content: right;
+    list-style: none;
+  }
   
