@@ -88,7 +88,7 @@ body {
   }
 
   li a {
-    color: #073596;
+    color: #2a64e3;
     text-decoration: none;
     font-weight: bold;
     margin-right: 25px;
@@ -97,7 +97,7 @@ body {
 
   nav ul {
     display: flex;
-  justify-content: space-between;
+  justify-content: right;
   list-style: none;
   }
 
