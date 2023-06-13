@@ -95,10 +95,10 @@ body {
     font-family: tilt prism;
   }
 
-  li {
+  nav ul {
     display: flex;
-    justify-content: right;
-    list-style: none;
+  justify-content: space-between;
+  list-style: none;
   }
 
 
