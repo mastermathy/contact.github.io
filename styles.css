@@ -65,9 +65,13 @@ body {
     font-weight: bold;
   }
 
-  h1 {
+  h2 {
     color: #2a64e3;
     font-family: tilt prism;
+  }
+
+  h3 {
+    text-align: center;
   }
 
   /* paragraph styling */
