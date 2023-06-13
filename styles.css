@@ -101,5 +101,13 @@ body {
   list-style: none;
   }
 
+  .success {
+    color: #049604;
+    font-weight: bold;
+    width: 50%;
+    margin: auto;
+    padding: 0.5rem;
+  }
+
 
   
