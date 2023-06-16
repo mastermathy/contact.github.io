@@ -9,5 +9,5 @@ document.addEventListener("DOMContentLoaded", function() {
     // Show the popup after a delay (e.g., 2 seconds)
     setTimeout(function() {
       popup.style.display = "flex";
-    }, 2000);
+    }, 1000);
   })
