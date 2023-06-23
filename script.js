@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
       popup.style.display = "none";
     });
   
-    // Show the popup after a delay (e.g., 2 seconds)
+    // Show the popup after a delay ( 2 seconds)
     setTimeout(function() {
       popup.style.display = "flex";
     }, 2000);
