@@ -119,7 +119,7 @@ body {
   }
 
   /* pop up styling */
-  .popup {
+  /* .popup {
     position: fixed;
     top: 0;
     left: 0;
@@ -150,22 +150,23 @@ body {
     height: 50%;
     border: 10px solid #2a64e3;
     border-radius: 10px 20px 40px 35px;
-  }
+  } */
 
   /* blinking image */
   /* Blink for Webkit and others
 (Chrome, Safari, Firefox, IE, ...)
 */
 
-@keyframes blinker {
+/* @keyframes blinker {
   from {opacity: 1.0;}
   to {opacity: 0.6;}
-}
-.blink{
+} */
+
+/* .blink{
 	text-decoration: blink;
 	animation-name: blinker;
 	animation-duration: 0.2s;
 	animation-iteration-count:infinite;
 	animation-timing-function:ease-in-out;
 	animation-direction: alternate;
-}
+} */
